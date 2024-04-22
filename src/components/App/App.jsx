@@ -32,7 +32,7 @@ function App() {
             <li key={item}>
               <a
                 href="#"
-                className="bg-grey block h-full w-full rounded-lg p-3 text-center hover:underline"
+                className="bg-gray hover:bg-neon-green hover:text-gray block h-full w-full rounded-lg p-3 text-center transition-colors delay-75 duration-200 ease-out"
               >
                 {item}
               </a>

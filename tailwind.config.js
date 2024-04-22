@@ -7,7 +7,7 @@ export default {
         black: '#141414',
         'dark-gray': '#1F1F1F',
         'neon-green': '#C4F82A',
-        grey: '#333333',
+        gray: '#333333',
       },
     },
   },
